@@ -1,2 +1,2 @@
 # HackerRankProblems
-Problems i've solved in hackerRank
+Problems i've solved in hackerRank.
