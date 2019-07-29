@@ -1,0 +1,4 @@
+﻿  kittysCalculationOnTree.cpp
+C:\Users\Aamir\source\repos\kittysCalculationOnTree\kittysCalculationOnTree\kittysCalculationOnTree.cpp(22,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Aamir\source\repos\kittysCalculationOnTree\kittysCalculationOnTree\kittysCalculationOnTree.cpp(73,16): warning C4018:  '<': signed/unsigned mismatch
+  kittysCalculationOnTree.vcxproj -> C:\Users\Aamir\source\repos\kittysCalculationOnTree\Debug\kittysCalculationOnTree.exe
